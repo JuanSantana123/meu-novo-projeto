@@ -1,0 +1,410 @@
+07/20/2023 04:11:27 PM INFO - robo está começando
+07/20/2023 04:12:11 PM INFO - robo está começando
+07/20/2023 04:17:30 PM INFO - robo está começando
+07/20/2023 04:17:30 PM teste
+07/20/2023 04:17:57 PM INFO - robo está começando
+07/20/2023 04:17:57 PM WARNING - Ocorreu um erro: module 'logging' has no attribute 'wawrning'
+07/20/2023 04:17:57 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 34, in main
+    logging.wawrning('teste')
+AttributeError: module 'logging' has no attribute 'wawrning'
+
+07/22/2023 02:17:13 AM INFO - robo está começando
+07/22/2023 02:17:13 AM teste
+07/23/2023 07:04:32 PM INFO - robo está começando
+07/23/2023 07:07:04 PM INFO - robo está começando
+07/23/2023 07:07:04 PM teste
+07/23/2023 07:11:25 PM INFO - robo está começando
+07/23/2023 07:11:25 PM teste
+07/23/2023 07:12:45 PM INFO - robo está começando
+07/23/2023 07:12:45 PM teste
+07/23/2023 07:13:02 PM INFO - robo está começando
+07/23/2023 07:13:02 PM teste
+07/23/2023 07:13:42 PM INFO - robo está começando
+07/23/2023 07:13:42 PM teste
+07/23/2023 07:14:16 PM INFO - robo está começando
+07/23/2023 07:14:16 PM teste
+07/23/2023 07:14:41 PM INFO - robo está começando
+07/23/2023 07:14:41 PM teste
+07/23/2023 07:17:50 PM INFO - robo está começando
+07/23/2023 07:18:01 PM INFO - robo está começando
+07/23/2023 07:19:11 PM INFO - robo está começando
+07/23/2023 07:19:59 PM INFO - robo está começando
+07/23/2023 07:20:11 PM INFO - robo está começando
+07/23/2023 07:20:25 PM INFO - robo está começando
+07/23/2023 07:20:49 PM INFO - robo está começando
+07/23/2023 07:21:00 PM INFO - robo está começando
+07/23/2023 07:21:07 PM INFO - robo está começando
+07/23/2023 07:22:39 PM INFO - robo está começando
+07/23/2023 07:25:33 PM INFO - robo está começando
+07/23/2023 07:26:07 PM INFO - robo está começando
+07/23/2023 07:26:47 PM INFO - robo está começando
+07/23/2023 07:27:56 PM INFO - robo está começando
+07/23/2023 07:27:56 PM teste
+07/23/2023 07:28:33 PM INFO - robo está começando
+07/23/2023 07:28:33 PM teste
+07/23/2023 07:29:00 PM INFO - robo está começando
+07/23/2023 07:29:00 PM teste
+07/23/2023 07:29:30 PM INFO - robo está começando
+07/23/2023 07:29:48 PM INFO - robo está começando
+07/23/2023 07:29:48 PM teste
+07/23/2023 08:01:16 PM INFO - robo está começando
+07/23/2023 08:01:16 PM teste
+07/23/2023 08:01:38 PM INFO - robo está começando
+07/23/2023 08:01:38 PM teste
+07/23/2023 08:02:10 PM INFO - robo está começando
+07/23/2023 08:02:10 PM teste
+07/24/2023 07:57:23 PM INFO - robo está começando
+07/24/2023 07:57:23 PM teste
+07/24/2023 08:05:56 PM INFO - robo está começando
+07/24/2023 08:06:07 PM INFO - robo está começando
+07/24/2023 08:07:02 PM INFO - robo está começando
+07/24/2023 08:08:13 PM INFO - robo está começando
+07/24/2023 08:11:27 PM INFO - robo está começando
+07/24/2023 08:11:57 PM INFO - robo está começando
+07/24/2023 08:12:08 PM INFO - robo está começando
+07/24/2023 08:12:20 PM INFO - robo está começando
+07/24/2023 08:12:42 PM INFO - robo está começando
+07/24/2023 08:13:08 PM INFO - robo está começando
+07/24/2023 08:14:34 PM INFO - robo está começando
+07/24/2023 08:14:34 PM WARNING - Ocorreu um erro: unsupported operand type(s) for +: 'Env' and 'str'
+07/24/2023 08:14:34 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 44, in main
+    help_folder = path_env+'Auxiliar'
+TypeError: unsupported operand type(s) for +: 'Env' and 'str'
+
+07/24/2023 08:15:01 PM INFO - robo está começando
+07/24/2023 08:15:01 PM WARNING - Ocorreu um erro: unsupported operand type(s) for +: 'Env' and 'str'
+07/24/2023 08:15:01 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 44, in main
+    help_folder = path_env+'Auxiliar'
+TypeError: unsupported operand type(s) for +: 'Env' and 'str'
+
+07/24/2023 08:15:09 PM INFO - robo está começando
+07/24/2023 08:15:09 PM WARNING - Ocorreu um erro: unsupported operand type(s) for +: 'Env' and 'str'
+07/24/2023 08:15:09 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 44, in main
+    help_folder = path_env+'Auxiliar'
+TypeError: unsupported operand type(s) for +: 'Env' and 'str'
+
+07/24/2023 08:15:29 PM INFO - robo está começando
+07/24/2023 08:15:29 PM WARNING - Ocorreu um erro: unsupported operand type(s) for +: 'Env' and 'str'
+07/24/2023 08:15:29 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 44, in main
+    help_folder = path_env+'Auxiliar'
+TypeError: unsupported operand type(s) for +: 'Env' and 'str'
+
+07/24/2023 08:19:10 PM INFO - robo está começando
+07/24/2023 08:47:18 PM INFO - robo está começando
+07/24/2023 08:47:18 PM WARNING - Ocorreu um erro: single positional indexer is out-of-bounds
+07/24/2023 08:47:18 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 48, in main
+    conexao_bd  = env_reader.ReadValue(ambiente, chave) #todo: Preencher com a variável ambiente e chave
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\get_value.py", line 53, in ReadValue
+    valor = self.df.loc[(self.df['Ambiente'] == ambiente) & (self.df['Chave'] == chave), 'Valor'].iloc[0]
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1103, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1656, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1589, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+07/24/2023 08:47:46 PM INFO - robo está começando
+07/24/2023 08:47:46 PM WARNING - Ocorreu um erro: single positional indexer is out-of-bounds
+07/24/2023 08:47:46 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 48, in main
+    conexao_bd  = env_reader.ReadValue(ambiente, chave) #todo: Preencher com a variável ambiente e chave
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\get_value.py", line 53, in ReadValue
+    valor = self.df.loc[(self.df['Ambiente'] == ambiente) & (self.df['Chave'] == chave), 'Valor'].iloc[0]
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1103, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1656, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1589, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+07/24/2023 08:50:23 PM INFO - robo está começando
+07/24/2023 08:50:24 PM WARNING - Ocorreu um erro: single positional indexer is out-of-bounds
+07/24/2023 08:50:24 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 48, in main
+    conexao_bd  = env_reader.ReadValue(ambiente, chave) #todo: Preencher com a variável ambiente e chave
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\get_value.py", line 53, in ReadValue
+    valor = self.df.loc[(self.df['Ambiente'] == ambiente) & (self.df['Chave'] == chave), 'Valor'].iloc[0]
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1103, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1656, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1589, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+07/24/2023 08:50:59 PM INFO - robo está começando
+07/24/2023 08:51:00 PM WARNING - Ocorreu um erro: single positional indexer is out-of-bounds
+07/24/2023 08:51:00 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 51, in main
+    conexao_bd  = env_reader.ReadValue(ambiente, chave) #todo: Preencher com a variável ambiente e chave
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\get_value.py", line 53, in ReadValue
+    valor = self.df.loc[(self.df['Ambiente'] == ambiente) & (self.df['Chave'] == chave), 'Valor'].iloc[0]
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1103, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1656, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1589, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+07/24/2023 08:51:50 PM INFO - robo está começando
+07/24/2023 08:51:51 PM WARNING - Ocorreu um erro: single positional indexer is out-of-bounds
+07/24/2023 08:51:51 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 51, in main
+    conexao_bd  = env_reader.ReadValue(ambiente, chave) #todo: Preencher com a variável ambiente e chave
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\get_value.py", line 53, in ReadValue
+    valor = self.df.loc[(self.df['Ambiente'] == ambiente) & (self.df['Chave'] == chave), 'Valor'].iloc[0]
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1103, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1656, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1589, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+07/24/2023 08:52:27 PM INFO - robo está começando
+07/24/2023 08:52:27 PM WARNING - Ocorreu um erro: single positional indexer is out-of-bounds
+07/24/2023 08:52:27 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 51, in main
+    conexao_bd  = env_reader.ReadValue(ambiente, chave) #todo: Preencher com a variável ambiente e chave
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\get_value.py", line 53, in ReadValue
+    valor = self.df.loc[(self.df['Ambiente'] == ambiente) & (self.df['Chave'] == chave), 'Valor'].iloc[0]
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1103, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1656, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexing.py", line 1589, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+07/24/2023 08:53:35 PM INFO - robo está começando
+07/24/2023 08:54:29 PM INFO - robo está começando
+07/24/2023 08:54:58 PM INFO - robo está começando
+07/24/2023 09:05:59 PM INFO - robo está começando
+07/24/2023 09:06:10 PM INFO - robo está começando
+07/24/2023 11:00:11 PM INFO - robo está começando
+07/24/2023 11:00:11 PM WARNING - Ocorreu um erro: chromedriver was not found. Please make sure to have it on your PATH or set driver_path
+07/24/2023 11:00:11 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 46, in main
+    bot.browse("https://www.botcity.dev")
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 922, in browse
+    self.navigate_to(url)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 907, in navigate_to
+    self.start_browser()
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 261, in start_browser
+    driver_path = self.driver_path or check_driver()
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 244, in check_driver
+    raise RuntimeError(
+RuntimeError: chromedriver was not found. Please make sure to have it on your PATH or set driver_path
+
+07/24/2023 11:02:00 PM INFO - robo está começando
+07/24/2023 11:02:01 PM WARNING - Ocorreu um erro: chromedriver was not found. Please make sure to have it on your PATH or set driver_path
+07/24/2023 11:02:01 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 46, in main
+    bot.browse("https://www.botcity.dev")
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 922, in browse
+    self.navigate_to(url)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 907, in navigate_to
+    self.start_browser()
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 261, in start_browser
+    driver_path = self.driver_path or check_driver()
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 244, in check_driver
+    raise RuntimeError(
+RuntimeError: chromedriver was not found. Please make sure to have it on your PATH or set driver_path
+
+07/24/2023 11:03:10 PM INFO - robo está começando
+07/24/2023 11:06:14 PM INFO - robo está começando
+07/24/2023 11:06:50 PM INFO - robo está começando
+07/24/2023 11:07:24 PM INFO - robo está começando
+07/24/2023 11:08:45 PM INFO - robo está começando
+07/24/2023 11:09:17 PM INFO - robo está começando
+07/24/2023 11:09:45 PM INFO - robo está começando
+07/24/2023 11:10:16 PM INFO - robo está começando
+07/24/2023 11:10:18 PM WARNING - Ocorreu um erro: Message: invalid argument
+  (Session info: chrome=115.0.5790.99)
+
+07/24/2023 11:10:18 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 51, in main
+    bot.browse("google.com")
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 922, in browse
+    self.navigate_to(url)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\botcity\web\bot.py", line 909, in navigate_to
+    self._driver.get(url)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Juan\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument
+  (Session info: chrome=115.0.5790.99)
+
+
+07/24/2023 11:10:32 PM INFO - robo está começando
+07/24/2023 11:11:37 PM INFO - robo está começando
+07/24/2023 11:11:40 PM WARNING - Ocorreu um erro: 'WebBot' object has no attribute 'waiting_time'
+07/24/2023 11:11:40 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 52, in main
+    bot.waiting_time(10000)
+AttributeError: 'WebBot' object has no attribute 'waiting_time'
+
+07/24/2023 11:12:08 PM INFO - robo está começando
+07/24/2023 11:12:12 PM WARNING - Ocorreu um erro: 'WebBot' object has no attribute 'waiting_time'
+07/24/2023 11:12:12 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 52, in main
+    bot.waiting_time(10000)
+AttributeError: 'WebBot' object has no attribute 'waiting_time'
+
+07/24/2023 11:12:30 PM INFO - robo está começando
+07/24/2023 11:13:28 PM INFO - robo está começando
+07/24/2023 11:14:38 PM INFO - robo está começando
+07/24/2023 11:14:38 PM WARNING - Ocorreu um erro: 'Options' object is not callable
+07/24/2023 11:14:38 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 51, in main
+    bot.browse("https://www.rpachallenge.com/", chrome_options())
+TypeError: 'Options' object is not callable
+
+07/24/2023 11:15:12 PM INFO - robo está começando
+07/24/2023 11:15:12 PM WARNING - Ocorreu um erro: 'Options' object is not callable
+07/24/2023 11:15:12 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 52, in main
+    bot.browse("https://www.rpachallenge.com/", chrome_options())
+TypeError: 'Options' object is not callable
+
+07/24/2023 11:21:59 PM INFO - robo está começando
+07/24/2023 11:21:59 PM WARNING - Ocorreu um erro: WebBot.__init__() got an unexpected keyword argument 'download_folder_path'
+07/24/2023 11:21:59 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 41, in main
+    bot = WebBot(headless=False, download_folder_path=download_folder)
+TypeError: WebBot.__init__() got an unexpected keyword argument 'download_folder_path'
+
+07/24/2023 11:22:36 PM INFO - robo está começando
+07/24/2023 11:22:36 PM WARNING - Ocorreu um erro: WebBot.__init__() got an unexpected keyword argument 'download_folder'
+07/24/2023 11:22:36 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 41, in main
+    bot = WebBot(headless=False, download_folder=download_folder)
+TypeError: WebBot.__init__() got an unexpected keyword argument 'download_folder'
+
+07/24/2023 11:22:46 PM INFO - robo está começando
+07/24/2023 11:23:10 PM INFO - robo está começando
+07/24/2023 11:23:51 PM INFO - robo está começando
+07/24/2023 11:23:51 PM WARNING - Ocorreu um erro: WebBot.__init__() got an unexpected keyword argument 'download_folder_path'
+07/24/2023 11:23:51 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 41, in main
+    bot = WebBot(headless=False,download_folder_path=download_folder)
+TypeError: WebBot.__init__() got an unexpected keyword argument 'download_folder_path'
+
+07/24/2023 11:24:47 PM INFO - robo está começando
+07/24/2023 11:24:47 PM WARNING - Ocorreu um erro: WebBot.__init__() got an unexpected keyword argument 'download_folder_path'
+07/24/2023 11:24:47 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 41, in main
+    bot = WebBot(headless=False,download_folder_path=download_folder)
+TypeError: WebBot.__init__() got an unexpected keyword argument 'download_folder_path'
+
+07/24/2023 11:25:30 PM INFO - robo está começando
+07/24/2023 11:25:30 PM WARNING - Ocorreu um erro: WebBot.__init__() got an unexpected keyword argument 'download_folder_path'
+07/24/2023 11:25:30 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 41, in main
+    bot = WebBot(headless=False,download_folder_path=r'C:\Users\Juan\Downloads')
+TypeError: WebBot.__init__() got an unexpected keyword argument 'download_folder_path'
+
+07/24/2023 11:25:49 PM INFO - robo está começando
+07/24/2023 11:25:49 PM WARNING - Ocorreu um erro: WebBot.__init__() got an unexpected keyword argument 'download_folder'
+07/24/2023 11:25:49 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 41, in main
+    bot = WebBot(headless=False,download_folder=download_folder)
+TypeError: WebBot.__init__() got an unexpected keyword argument 'download_folder'
+
+07/24/2023 11:26:47 PM INFO - robo está começando
+07/24/2023 11:26:47 PM WARNING - Ocorreu um erro: WebBot.__init__() got an unexpected keyword argument 'download_folder'
+07/24/2023 11:26:47 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 41, in main
+    bot = WebBot(headless=False,download_folder=download_folder)
+TypeError: WebBot.__init__() got an unexpected keyword argument 'download_folder'
+
+07/24/2023 11:31:10 PM INFO - robo está começando
+07/24/2023 11:31:10 PM WARNING - Ocorreu um erro: 'NoneType' object is not callable
+07/24/2023 11:31:10 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 42, in main
+    bot.capabilities()
+TypeError: 'NoneType' object is not callable
+
+07/24/2023 11:31:55 PM INFO - robo está começando
+07/24/2023 11:36:37 PM INFO - robo está começando
+07/24/2023 11:36:37 PM WARNING - Ocorreu um erro: name 'botcity' is not defined
+07/24/2023 11:36:37 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 48, in main
+    botcity.web.browsers.chrome.default_options(headless=False, download_folder_path=download_folder, user_data_dir=None, page_load_strategy='normal')
+NameError: name 'botcity' is not defined
+
+07/24/2023 11:39:28 PM INFO - robo está começando
+07/24/2023 11:39:28 PM WARNING - Ocorreu um erro: name 'botcity' is not defined
+07/24/2023 11:39:28 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 43, in main
+    bot = WebBot(botcity.web.browsers.chrome.default_options(headless=False, download_folder_path=None, user_data_dir=None, page_load_strategy='normal'))
+NameError: name 'botcity' is not defined
+
+07/24/2023 11:40:31 PM INFO - robo está começando
+07/24/2023 11:40:31 PM WARNING - Ocorreu um erro: name 'WebBot' is not defined
+07/24/2023 11:40:31 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 43, in main
+    bot = WebBot(botcity.web.browsers.chrome.default_options(headless=False, download_folder_path=None, user_data_dir=None, page_load_strategy='normal'))
+NameError: name 'WebBot' is not defined
+
+07/24/2023 11:42:33 PM INFO - robo está começando
+07/24/2023 11:42:33 PM WARNING - Ocorreu um erro: name 'botcity' is not defined
+07/24/2023 11:42:33 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 44, in main
+    bot = WebBot(botcity.web.browsers.chrome.default_options(headless=False, download_folder_path=None, user_data_dir=None, page_load_strategy='normal'))
+NameError: name 'botcity' is not defined
+
+07/24/2023 11:43:05 PM INFO - robo está começando
+07/24/2023 11:43:05 PM WARNING - Ocorreu um erro: name 'botcity' is not defined
+07/24/2023 11:43:05 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 45, in main
+    bot = WebBot(botcity.web.browsers.chrome.default_options(headless=False, download_folder_path=None, user_data_dir=None, page_load_strategy='normal'))
+NameError: name 'botcity' is not defined
+
+07/24/2023 11:44:41 PM INFO - robo está começando
+07/24/2023 11:44:41 PM WARNING - Ocorreu um erro: name 'web' is not defined
+07/24/2023 11:44:41 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 43, in main
+    bot = WebBot(web.browsers.chrome.default_options(headless=False, download_folder_path=None, user_data_dir=None, page_load_strategy='normal'))
+NameError: name 'web' is not defined
+
+07/24/2023 11:44:56 PM INFO - robo está começando
+07/24/2023 11:44:56 PM WARNING - Ocorreu um erro: name 'Web' is not defined
+07/24/2023 11:44:56 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 43, in main
+    bot = WebBot(Web.browsers.chrome.default_options(headless=False, download_folder_path=None, user_data_dir=None, page_load_strategy='normal'))
+NameError: name 'Web' is not defined
+
+07/24/2023 11:45:38 PM INFO - robo está começando
+07/24/2023 11:45:38 PM WARNING - Ocorreu um erro: name 'botcity' is not defined
+07/24/2023 11:45:38 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 43, in main
+    bot = WebBot(botcity.web.browsers.chrome.default_options(headless=False, download_folder_path=None, user_data_dir=None, page_load_strategy='normal'))
+NameError: name 'botcity' is not defined
+
+07/24/2023 11:46:31 PM INFO - robo está começando
+07/24/2023 11:46:31 PM WARNING - Ocorreu um erro: name 'botcity' is not defined
+07/24/2023 11:46:31 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 43, in main
+    bot = WebBot(botcity.web.browsers.chrome.default_options(headless=False, download_folder_path=None, user_data_dir=None, page_load_strategy='normal'))
+NameError: name 'botcity' is not defined
+
+07/24/2023 11:48:21 PM INFO - robo está começando
+07/24/2023 11:48:21 PM WARNING - Ocorreu um erro: name 'botcity' is not defined
+07/24/2023 11:48:21 PM Traceback (most recent call last):
+  File "C:\Users\Juan\PycharmProjects\pythonProject\ENV\bot.py", line 43, in main
+    bot = WebBot(botcity.web.browsers.chrome.default_options(headless=False, download_folder_path=None, user_data_dir=None, page_load_strategy='normal'))
+NameError: name 'botcity' is not defined
+
